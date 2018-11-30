@@ -104,7 +104,7 @@ if __name__ == "__main__":
               'License :: OSI Approved :: Apache Software License',
               'Operating System :: POSIX :: Linux',
               'Operating System :: Microsoft :: Windows',
-              'Programming Language :: Python :: 2.7',
+              'Programming Language :: Python :: 3.5',
           ],
           long_description=long_description,
           packages=["dtls", "dtls.demux", "dtls.test"],
